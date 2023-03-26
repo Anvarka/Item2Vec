@@ -1,6 +1,8 @@
 # Item2Vec
 Research and create a hybrid recommender model 
 
+Dataset Amazon
+
 Image:
 
 | Model |Precision_at_4  | Recall_at_4 |
@@ -13,4 +15,5 @@ Text:
 | Model |Precision_at_4  | Recall_at_4 |
 | -------- | ------- | ------- |
 | Word2Vec | 0.06959624497698134 | 0.025079756137138816 |
+| Roberta | 0.06315050805591423 | 0.025079756137138816 |
 
