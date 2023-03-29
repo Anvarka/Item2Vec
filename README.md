@@ -27,6 +27,6 @@ Combination:
 
 | Model |Precision_at_4  | Recall_at_4 |
 | -------- | ------- | ------- |
-| Concat | | |
+| Concat | 0.04931623503481441 | 0.013962060541002252 |
 | Mean | | |
 | Sum | | |
